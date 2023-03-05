@@ -16,10 +16,11 @@ Geolocation API: An API that allows web applications to access the user's locati
 localstorage API: aAn API that allows you store data on your web browser.
 
 # USAGE
-Click on the map to add a new workout.
-Fill out the workout form and click "enter".
-Your workout will be added to the map and to the sidebar.
-See your workout stats in the sidebar.
+1. Allow the page to access your current location
+2. Click on the map to add a new workout.
+3. Fill out the workout form and click "enter".
+4. Your workout will be added to the map and to the sidebar.
+5. See your workout stats in the sidebar.
 
 # CREDITS
 This project was inspired by Jonas Schmedtmann's [JavaScript Course.](https://www.udemy.com/course/the-complete-javascript-course/)
